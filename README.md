@@ -1,8 +1,8 @@
 # StarkWare Wolf Pack League - the Starknet Community Engagement Program
 
-![artwork by https://twitter.com/gore_gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/986c6520-2443-4dc1-b1b6-ebb3f327c341/0782dbfd-140d-4fee-bcfc-46b3fe55d0fb/Opera_senza_titolo_205.gif)
+![Artwork by Gore GIF](https://prod-files-secure.s3.us-west-2.amazonaws.com/986c6520-2443-4dc1-b1b6-ebb3f327c341/0782dbfd-140d-4fee-bcfc-46b3fe55d0fb/Opera_senza_titolo_205.gif)
 
-Artwork by [Gore GIF](https://twitter.com/gore_gif)
+![WP1 GIF](assets/wp1.gif)
 
 ## Description
 A StarkWare initiative to boost innovation and growth in the Starknet ecosystem is coming out of the woods, backed by a whopping 5 million STRK budget for the first phase!
@@ -102,5 +102,5 @@ All communication will take place in the WPL channel on [Starknet Discord](https
 
 12. Fenrir: A monstrous wolf from Norse mythology destined to bring about Ragnarok, feared for its immense strength and ferocity.
 
-13. Dire Wolf: Larger and more ferocious than any other wolves, dire
+13. Dire Wolf: Larger and more ferocious than any other wolves, dire wolves are iconic predators.
 
