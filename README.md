@@ -3,8 +3,12 @@
 ![Artwork by Gore GIF](https://prod-files-secure.s3.us-west-2.amazonaws.com/986c6520-2443-4dc1-b1b6-ebb3f327c341/0782dbfd-140d-4fee-bcfc-46b3fe55d0fb/Opera_senza_titolo_205.gif)
 
 ![WP1 GIF](assets/wp1.gif)
+![WP1 Logo](assets/WP1%20logo.png)
+
+[WP1 Brand Guide](assets/WP1%20Brand%20Guide.pdf)
 
 ## Description
+
 A StarkWare initiative to boost innovation and growth in the Starknet ecosystem is coming out of the woods, backed by a whopping 5 million STRK budget for the first phase!
 
 ## Key Features
