@@ -23,7 +23,7 @@ Advance through the hierarchy (Puppy to Dire Wolf) based on points.
 Reach a new WPL tier and get rewarded in STRK.
 
 ### Application Process
-Creators and developers [must apply](http://www.starknet.io/wpl) with their social accounts and GitHub profiles.
+Creators and developers [must apply](https://form.typeform.com/to/jPgPdA8l) with their social accounts and GitHub profiles.
 
 ### Development Process
 Starts with a lean backend setup, using social listening tools and [OnlyDust](https://app.onlydust.com/) for secure payments and KYC.
